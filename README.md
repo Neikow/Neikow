@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Vitaly <img width="30px" src="https://raw.githubusercontent.com/neikow/neikow/main/media/hi.gif"></h1>
 
-<p align="center">... a third year Engineering Student from France.</br>
-I program as a hobby.</p>
+<p align="center">A third year Engineering Student from France.</br>
+For the time being, I program as a hobby.</p>
 
 <h2 align="center">Current Projets</h2>
+
+* [vscript](https://github.com/Neikow/vscript) : Another typed programming language.
+* ...
 
 <h2 align="center">Languages</h2>
 <p align="center">
