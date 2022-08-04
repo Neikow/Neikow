@@ -58,7 +58,7 @@ For the time being, I program as a hobby.</p>
 
 <h3 align="center">Connect</h3>
 <p align="center">
-   <a href="https://discordapp.com/users/275351185022779393">
+  <a href="https://discordapp.com/users/275351185022779393">
     <img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
   </a>
   <a href="https://twitter.com/witaly_n">
@@ -69,4 +69,5 @@ For the time being, I program as a hobby.</p>
   </a>
   <a href="https://steamcommunity.com/id/witalyn">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="steam">
+  </a>
 </p>
