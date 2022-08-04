@@ -1,5 +1,4 @@
-# Neikow
-
+<h1 align="center">Hi, I'm Rajarshi Kundu<img width="30px" src="https://raw.githubusercontent.com/neikow/neikow/main/media/hi.gif"></h1>
 
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
