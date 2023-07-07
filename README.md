@@ -9,6 +9,7 @@ For the time being, I program as a hobby.</p>
 * [pxc](https://github.com/Neikow/pxc) : Frontend for the Photo Club of Centrale Marseille School of Engineering.
 * [vscript](https://github.com/Neikow/vscript) : Another typed programming language.
 * ...
+</br>
 And some private projects, I sadly cannot share...
 
 <h2 align="center">Languages</h2>
