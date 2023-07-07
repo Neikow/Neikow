@@ -5,7 +5,7 @@ For the time being, I program as a hobby.</p>
 
 <h2 align="center">Current Projets</h2>
 
-* [Apimo.js](https://github.com/Neikow/apimo.js) : A Node.js wrapper for the [Apimo](https://apimo.net/en/) API.
+* [apimo.js](https://github.com/Neikow/apimo.js) : A Node.js wrapper for the [Apimo](https://apimo.net/en/) API.
 * [pxc](https://github.com/Neikow/pxc) : Frontend for the Photo Club of Centrale Marseille School of Engineering.
 * [vscript](https://github.com/Neikow/vscript) : Another typed programming language.
 * ...
