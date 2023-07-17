@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vitaly <img width="30px" src="https://raw.githubusercontent.com/neikow/neikow/main/media/hi.gif"></h1>
 
-<p align="center">A third year Engineering Student from France.</br>
+<p align="center">A fourth year Engineering Student from France.</br>
 For the time being, I program as a hobby.</p>
 
 <h2 align="center">Current Projets</h2>
