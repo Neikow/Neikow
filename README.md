@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vitaly <img width="30px" src="https://raw.githubusercontent.com/neikow/neikow/main/media/hi.gif"></h1>
 
 <p align="center">A fourth year Engineering Student from France.</br>
-For the time being, I program as a hobby.</p>
+For the time being, I program as a hobby but I'm open to every opportunity.</p>
 
 <h2 align="center">Current Projets</h2>
 
