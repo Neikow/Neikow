@@ -63,10 +63,15 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
 <h3 align="center">Software</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
+  <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&logoColor=white" alt="Intellij Idea">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
+  
   <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="arch">
   <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000" alt="notion">
+</p>
+<p align="center>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos">
 </p>
 
 <h3 align="center">Connect</h3>
