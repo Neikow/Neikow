@@ -31,6 +31,9 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex">
   <img src="https://img.shields.io/badge/assembly-%233a56a6.svg?style=for-the-badge" alt="asm">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+</p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
