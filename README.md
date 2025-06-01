@@ -3,16 +3,19 @@
 <p align="center">A fourth year Engineering Student from France.</br>
 For the time being, I program as a hobby but I'm open to every opportunity.</p>
 
+<blockquote align="center">
+  <i>Ce qui vient au monde pour ne rien troubler ne mérite ni égards ni patience.</i> - René Char
+</blockquote>
+
 <h2 align="center">Current Projets</h2>
 
 * [apimo.js](https://github.com/Neikow/apimo.js) : A Node.js wrapper for the [Apimo](https://apimo.net/en/) API.
-* [pxc](https://github.com/Neikow/pxc) : Frontend for the Photo Club of Centrale Marseille School of Engineering.
-* [vscript](https://github.com/Neikow/vscript) : Another typed programming language.
+* [Statemachines Orchestrator](https://github.com/Neikow/statemachines_orchestrator) : A communication layer for `python-statemachine`.
 * ...
-</br>
 
 <h3 align="center">Websites</h3>
 
+* [Photography](https://photography.lysen.dev) : My personal photography portfolio.
 * [Immoconcept](https://immoconcept.pro) : A real estate agency website.
 * ...
 
@@ -22,28 +25,29 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="dart">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex">
   <img src="https://img.shields.io/badge/assembly-%233a56a6.svg?style=for-the-badge" alt="asm">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c">
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs">
+   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="astro">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
 </p>
 
 <h3 align="center">Technologies</h3>
@@ -59,6 +63,12 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino">
 </p>
 
+<h3 align="center">Cloud</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github Actions" />
+</p>
 
 <h3 align="center">Software</h3>
 <p align="center">
@@ -68,9 +78,6 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
   
   <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="arch">
   <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000" alt="notion">
-</p>
-<p align="center>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos">
 </p>
 
